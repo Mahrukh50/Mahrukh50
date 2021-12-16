@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahrukh50
-- 👀 I’m interested Python Development
+- 👀 I’m interested in Python Development
 - 🌱 I’m currently learning SQL and Javascript
 - 💞️ I’m looking to collaborate on pyhton based projects
 - 📫 mahrukhwahab96@gmail.com
